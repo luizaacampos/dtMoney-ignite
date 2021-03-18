@@ -1,4 +1,4 @@
-<img align="center" src="./assets/logo.svg">
+<h1 align="center"><img src="./assets/logo.svg" /></h1>
 
 <p>Segundo projeto desenvolvido durante o bootcamp Ignite - trilha React da Rocketseat. DT Money é uma aplicação para controle financeiro, aceita entradas e saídas e mostra o valor total de dinheiro disponivel.</p>
 
